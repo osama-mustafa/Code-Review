@@ -18,13 +18,23 @@
 - Avoid preserved keywords
 - Avoid ambiguous names
 - Consistent Naming Style
-  - PascalCase
-  - camelCase
-  - snake_case
-  - kebab-case
+    - PascalCase
+    - camelCase
+    - snake_case
+    - kebab-case
 ## Comments
 - [ ] Are obvious comments avoided?
 - [ ] Are pre- and post-conditions properly described?
 - [ ] Are comments written in clear, understandable language and free from jargon?
 ## Performance
 ## Security
+- Input Validation
+    - [ ] Are all user inputs properly validated?
+    - [ ] Data Types and Length: Are input fields validated for appropriate data types and length?
+
+
+
+# Resources
+- [Effective Code Review Session By Eng. Ahmed El-Alfy](https://youtu.be/w3pzzrgPAV0?si=LBEktlUJ0B-jjU7e)
+- ChatGPT
+- Bard
