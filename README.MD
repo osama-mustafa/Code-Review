@@ -7,15 +7,15 @@
 
 
 ## Code Structure
+- DRY (Don’t repeat yourself) Principle
+- KISS (Keep it simple, stupid!!) Principle
+- YAGNI (You ain’t gonna need it) Principle
 - SOLID Principles
     - The Single Responsibility Principle (SRP)
     - The Open-Closed Principle (OCP)
     - The Liskov Substitution Principle (LSP)
     - The Interface Segregation Principle (ISP)
     - The Dependency Inversion Principle (DIP)
-- DRY (Don’t repeat yourself) Principle
-- KISS (Keep it simple, stupid!!) Principle
-- YAGNI (You ain’t gonna need it) Principle
 
 ## Data Structures
 ## Design Smells
@@ -35,6 +35,7 @@
     - camelCase
     - snake_case
     - kebab-case
+- Follow language standards
 
 ## Comments
 - [ ] Are obvious comments avoided?
