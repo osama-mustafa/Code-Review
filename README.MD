@@ -17,7 +17,6 @@
     - The Interface Segregation Principle (ISP)
     - The Dependency Inversion Principle (DIP)
 
-## Data Structures
 ## Design Smells
 - [Long Method](https://refactoring.guru/smells/long-method)
 - [Duplicate Code](https://refactoring.guru/smells/duplicate-code)
@@ -42,7 +41,6 @@
 - [ ] Are pre- and post-conditions properly described?
 - [ ] Are comments written in clear, understandable language and free from jargon?
 
-## Performance
 ## Security
 - Input Validation
     - [ ] Are all user inputs properly validated?
@@ -50,7 +48,14 @@
 - Authentication and Authorization
     - [ ] Are passwords securely stored using proper hashing techniques?
 
+## Language Standards & Coding Style Guides
+ - [PHP PSR](https://www.php-fig.org/psr/psr-12/)
+ - [Python PEP8](https://peps.python.org/pep-0008/)
+ - [VueJS Style Guide](https://vuejs.org/style-guide/)
+ - [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 
+## Performance
+## Data Structures
 
 # Resources
 - [Effective Code Review Session By Eng. Ahmed El-Alfy](https://youtu.be/w3pzzrgPAV0?si=LBEktlUJ0B-jjU7e)
