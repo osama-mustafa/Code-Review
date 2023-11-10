@@ -23,8 +23,8 @@
   - snake_case
   - kebab-case
 ## Comments
-- [] Are obvious comments avoided?
-- [] Are pre- and post-conditions properly described?
-- [] Are comments written in clear, understandable language and free from jargon?
+- [ ] Are obvious comments avoided?
+- [ ] Are pre- and post-conditions properly described?
+- [ ] Are comments written in clear, understandable language and free from jargon?
 ## Performance
 ## Security
