@@ -7,6 +7,11 @@
 
 
 ## Code Structure
+- SOLID Principles
+- DRY (Don’t repeat yourself) Principle
+- KISS (Keep it simple, stupid!!) Principle
+- YAGNI (You ain’t gonna need it) Principle
+
 ## Data Structures
 ## Design Smells
 - [Long Method](https://refactoring.guru/smells/long-method)
@@ -26,12 +31,10 @@
     - snake_case
     - kebab-case
 
-
 ## Comments
 - [ ] Are obvious comments avoided?
 - [ ] Are pre- and post-conditions properly described?
 - [ ] Are comments written in clear, understandable language and free from jargon?
-
 
 ## Performance
 ## Security
