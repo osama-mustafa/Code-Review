@@ -4,6 +4,8 @@
 - The merge request title or description
 - The commit messages
 - The code itself is self explanatory
+
+
 ## Code Structure
 ## Data Structures
 ## Design Smells
@@ -12,6 +14,7 @@
 - [Magic Number](https://refactoring.guru/replace-magic-number-with-symbolic-constant)
 - [Dead Code](https://refactoring.guru/smells/dead-code)
 - [Comments](https://refactoring.guru/smells/comments)
+
 
 ## Naming & Formatting Conventions
 - Avoid acronyms
@@ -22,15 +25,21 @@
     - camelCase
     - snake_case
     - kebab-case
+
+
 ## Comments
 - [ ] Are obvious comments avoided?
 - [ ] Are pre- and post-conditions properly described?
 - [ ] Are comments written in clear, understandable language and free from jargon?
+
+
 ## Performance
 ## Security
 - Input Validation
     - [ ] Are all user inputs properly validated?
-    - [ ] Data Types and Length: Are input fields validated for appropriate data types and length?
+    - [ ] Are input fields validated for appropriate data types and length?
+- Authentication and Authorization
+    - [ ] Are passwords securely stored using proper hashing techniques?
 
 
 
